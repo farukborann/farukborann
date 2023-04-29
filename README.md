@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Ömer Faruk BORAN</h1>
 <h3 align="center">A backend developer open to learn.<br>Please take a look at my <a href="https://github.com/farukborann?tab=repositories">repositories</a></h3>
 
-- 🌱 I’m currently learning Javascript. **Express, React**
-
 - 📫 How to reach me **omerboran63@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
