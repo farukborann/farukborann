@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ömer Faruk BORAN</h1>
-<h3 align="center">A backend developer open to learn.<br>Please take a look at my <a href="https://github.com/farukborann?tab=repositories">repositories</a></h3>
+<h3 align="center">A fullstack developer. <br>Please take a look at my <a href="https://github.com/farukborann?tab=repositories">repositories</a></h3>
 
-- 📫 How to reach me **omerboran63@gmail.com**
+- 📫 How to reach me **omerfarukborann@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
